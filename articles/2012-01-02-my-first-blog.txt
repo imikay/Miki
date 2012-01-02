@@ -1,0 +1,10 @@
+title: This is my first blog
+author: Mikay Gao
+date: 2012/01/02
+
+
+This is my first blog, using my tiny blog engine.
+
+Happy new year.
+
+Enjoy.

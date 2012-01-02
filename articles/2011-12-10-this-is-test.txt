@@ -1,0 +1,10 @@
+title: This is test
+author: Mikay Gao
+date: 2011/12/10
+
+
+This is the test Article.
+
+
+And this is my mini blog engine.
+
