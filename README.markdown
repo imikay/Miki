@@ -1,3 +1,3 @@
 Miki, a micro blog engine.
 
-Working in progress...
+This is a work in progress, so bear with me.
